@@ -8,7 +8,10 @@ public class Main {
         firstStack.push(25);
         firstStack.push(43);
         firstStack.push(34);
+        firstStack.push(4444);
         firstStack.pop();
+
+
 
         System.out.println(firstStack.peek());
         System.out.println(firstStack.size());
