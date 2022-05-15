@@ -13,6 +13,7 @@ public class Main {
 
 
 
+
         System.out.println(firstStack.peek());
         System.out.println(firstStack.size());
         System.out.println(firstStack.isEmpty());
